@@ -1,7 +1,7 @@
 # IITG Summer Internship 2023 Tasks
 
 Hi, I'm Aashish Kumar Jha, a CSE undergrad at Chandigarh University, Mohali, Punjab.
-This repo contains some tasks required for qualifying internship. 
+This repo contains some tasks related to internship and machine learning. 
 
 ## List of Tasks
 
