@@ -6,7 +6,7 @@ This repo contains some tasks required for qualifying internship.
 ## List of Tasks
 
 ### Task - 1
-[5 Marks] Implement Inverse CDF sampling for the Fréchet distribution. With a sufficient number of samples, plot the kernel density estimation plot and show that you are able to match the PDF. Also, reproduce the following figure and visualize it: https://en.wikipedia.org/wiki/File:Frechet_pdf.svg
+[5 Marks] Implement Inverse CDF sampling for the Fréchet distribution. With a sufficient number of samples, plot the kernel density estimation plot and show that you are able to match the PDF. Also, reproduce the following figure and visualize it: https://en.wikipedia.org/wiki/File:Frechet_pdf.svg \
 [link to Task - 1](https://github.com/me-aashish/IITG-Summer-Internship-2023-Tasks/blob/1b942b377cab618aacd97107a74375591592c4c6/IITG%20task-1.ipynb)
 
 ### Task - 2
